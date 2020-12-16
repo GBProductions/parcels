@@ -1,6 +1,6 @@
- _{Application Name}_
+ _Parcels_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{Brief description of application}, December 15, 2020_
 
 #### By _**{List of contributors}**_
 
